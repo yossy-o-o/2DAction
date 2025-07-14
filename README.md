@@ -7,10 +7,9 @@
 ---
 
 ## 🛠 使用ライブラリ
+**Widows API​**
 
-- Widows API​
-
-​- Google Apps Script（GAS）で作成したAPI​
+**​Google Apps Script（GAS）で作成したAPI​**
 
 ## ▶️ 実行方法
 
